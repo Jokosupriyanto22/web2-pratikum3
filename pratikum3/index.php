@@ -2,7 +2,7 @@
 include_once 'atas.php';
 ?>
 <div class="container">
-    <h2 class="text-primary">DATA BODY MASS INDEX PASIEN</h2>
+    <h2 class="text-primary">DATA BMI PASIEN</h2>
     <H6>NAMA : JOKO SUPRIYANTO</H6>
     <H6>KELAS :TI07</H6>
     <h6>NIM :0110220010 </h6>
